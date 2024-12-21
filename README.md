@@ -14,7 +14,7 @@
 
 ## 🖼️ Vista previa
 
-[![Vista previa de la página](https://via.placeholder.com/800x400.png?text=Vista+previa+de+Dozo)](https://dozo-iota.vercel.app/)
+[![Vista previa de la página](https://github.com/majopan/E-comerce-dozo/blob/main/frontend/frontend-dozo/src/assets/image.png)](https://dozo-iota.vercel.app/)
 
 > **¡Haz clic en la imagen para ver la aplicación en vivo!**
 
