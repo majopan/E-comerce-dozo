@@ -1,0 +1,185 @@
+/* Estilos generales */
+.breadcrumb-home3 {
+    color: #3a3a3a;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 0; /* Ajustado para centrarse en pantallas pequeñas */
+}
+
+.how-to-page {
+    padding: 50px;
+    background-color: #f7f5f5;
+}
+
+.how-to-header {
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.how-to-header h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.how-to-header h1 {
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.how-to-header h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    margin-top: 10px;
+}
+
+.how-to-header p {
+    font-size: 16px;
+    color: #333;
+    max-width: 600px;
+    margin: 15px auto 0;
+}
+
+.highlight-text {
+    background-color: yellow;
+    padding: 2px 4px;
+}
+
+.how-to-steps {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.step {
+    border: 1px solid #333;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    max-width: 250px;
+    background-color: #fff;
+}
+
+.step h4 {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.step p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.step img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.footer-text {
+    font-size: 14px;
+    color: #333;
+    margin-top: 40px;
+}
+
+/* Responsivo: Tablets */
+@media screen and (max-width: 768px) {
+    .breadcrumb-home3 {
+        font-size: 14px;
+        margin-left: 0;
+    }
+
+    .how-to-page {
+        padding: 30px;
+    }
+
+    .how-to-header h1 {
+        font-size: 35px;
+    }
+
+    .how-to-header h2 {
+        font-size: 18px;
+    }
+
+    .how-to-header p {
+        font-size: 14px;
+    }
+
+    .how-to-steps {
+        flex-direction: column; /* Apila los pasos */
+        gap: 15px;
+    }
+
+    .step {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .add-js-svgTitle {
+        max-width: 300px; /* Ajusta el tamaño máximo para tablets */
+    }
+}
+
+/* Responsivo: Móviles */
+@media screen and (max-width: 480px) {
+
+    .breadcrumb-home3 {
+        font-size: 14px;
+        margin-left: 0;
+        margin-top: 80px;
+
+    }
+
+    .how-to-page {
+        padding: 20px;
+        margin-top: 50px;
+    }
+
+    .how-to-header {
+        margin-top: 20px;
+    }
+
+    .how-to-header h1 {
+        font-size: 28px;
+    }
+
+    .how-to-header h2 {
+        font-size: 16px;
+    }
+
+    .how-to-header p {
+        font-size: 12px;
+    }
+
+    .highlight-text {
+        font-size: 12px;
+    }
+
+    .how-to-steps {
+        gap: 10px;
+    }
+
+    .step {
+        padding: 15px;
+    }
+
+    .step img {
+        width: 100%;
+    }
+
+    .footer-text {
+        margin-top: 10px;
+    }
+
+    .add-js-svgTitle {
+        max-width: 200px; /* Ajusta el tamaño máximo para móviles */
+        margin-left: 30px;
+    }
+}
