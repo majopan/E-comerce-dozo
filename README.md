@@ -14,7 +14,7 @@
 
 ## 🖼️ Vista previa
 
-[![Vista previa de la página](https://github.com/majopan/E-comerce-dozo/blob/main/frontend/frontend-dozo/src/assets/image.png)](https://dozo-iota.vercel.app/)
+[![Vista previa de la página](https://github.com/majopan/E-comerce-dozo/blob/main/frontend/frontend-dozo/src/assets/home.png)](https://dozo-iota.vercel.app/)
 
 > **¡Haz clic en la imagen para ver la aplicación en vivo!**
 
@@ -30,16 +30,16 @@ Puedes ver la aplicación en vivo en [**Dozo E-commerce**](https://dozo-iota.ver
 
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
 
-- **Email**: contacto@dozo.com
-- **GitHub**: [@dozo-ecommerce](https://github.com/dozo-ecommerce)
+- **Email**: majodiazzz54@gmail.com
+- **GitHub**: [@Maria jose jimenez](https://github.com/majopan)
 
 ---
 
 ## 🔧 Tecnologías utilizadas
 
-- **Frontend**: React, CSS, HTML
-- **Backend**: Node.js, Express
-- **Base de datos**: MongoDB
+- **Frontend**: React, CSS, HTML, javascript, bootstrap
+- **Backend**: python, django
+- **Base de datos**: sqlite3
 - **Despliegue**: Vercel
 
 ---
@@ -48,6 +48,6 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
 
 La siguiente imagen te muestra cómo se ve nuestra plataforma:
 
-![Vista previa de la página](https://via.placeholder.com/800x400.png?text=Vista+previa+de+Dozo)
+![Vista previa de la página](https://github.com/majopan/E-comerce-dozo/blob/main/frontend/frontend-dozo/src/assets/about.png)
 
 [Ver la página en vivo](https://dozo-iota.vercel.app/)
