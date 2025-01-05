@@ -1,12 +1,12 @@
 # E-commerce Dozo
 
-**E-commerce Dozo** es una plataforma digital diseñada para ofrecer una experiencia de compra en línea rápida, intuitiva y segura. Este proyecto tiene como objetivo conectar a los usuarios con una amplia variedad de productos, desde tecnología hasta moda y artículos para el hogar, utilizando un diseño moderno y funcional.
+**E-commerce Dozo** es una plataforma digital diseñada para ofrecer una experiencia de compra en línea rápida, intuitiva y segura. Este proyecto tiene como objetivo conectar a los usuarios con una amplia variedad de productos de moda y accesorios, utilizando un diseño moderno y funcional.
 
 ---
 
 ## ✨ Características
 
-- **Variedad de productos**: Tecnología, moda, hogar y mucho más.
+- **Variedad de productos**: moda y mucho más.
 - **Compra rápida y segura**: Interfaz intuitiva y protección de datos.
 - **Diseño moderno**: Con una navegación fluida y visual atractiva.
 
